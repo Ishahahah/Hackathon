@@ -15,5 +15,5 @@ We are proud of how well we were able to collaborate by having several meeting t
 ## What we learned
 Learning is an ongoing process. Within a span of 2 days, we have grown as individuals and learned to brainstorm, collaborate, and communicate efficiently to be able to meet each other’s standards and finish the project in a timely manner. We were able to learn a new IDE, Qoom, and strengthen our skills in HTML/CSS/JS. 
 
-## What's next for Coineage
+## What's next for FINGURU
 In two days, we were able to convey the core purpose of our website through one storyline, and it provided the main basis of our website. We plan to implement additional stories that can extend to multiple people, such as a couple or a family. This would allow the users to apply the financial lessons they have learned about and apply it to further situations, not just for themselves. 
